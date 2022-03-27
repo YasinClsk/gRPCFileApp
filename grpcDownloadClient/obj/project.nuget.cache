@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "NmFRaYLQ1/8+v+TpzrIDtoCHTeY6vH/IAknPeYtlNpADlfoA5J6mEJWIrDcA9phxVaVW9xrlzvngvvltdEjIhg==",
+  "success": true,
+  "projectFilePath": "D:\\Codes\\Visual Studio 2022\\gRPCFileApp\\grpcDownloadClient\\grpcDownloadClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasin\\.nuget\\packages\\google.protobuf\\3.20.0-rc2\\google.protobuf.3.20.0-rc2.nupkg.sha512",
+    "C:\\Users\\yasin\\.nuget\\packages\\grpc.core.api\\2.44.0\\grpc.core.api.2.44.0.nupkg.sha512",
+    "C:\\Users\\yasin\\.nuget\\packages\\grpc.net.client\\2.44.0\\grpc.net.client.2.44.0.nupkg.sha512",
+    "C:\\Users\\yasin\\.nuget\\packages\\grpc.net.common\\2.44.0\\grpc.net.common.2.44.0.nupkg.sha512",
+    "C:\\Users\\yasin\\.nuget\\packages\\grpc.tools\\2.45.0\\grpc.tools.2.45.0.nupkg.sha512",
+    "C:\\Users\\yasin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\yasin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "/9FNCooA8mKbwO/2soXX1un+EiTXTFEiVxVlJmtQ0Jg=",
+  "Source": "gRPCServer",
+  "BasePath": "_content/gRPCServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "gRPCServer\\wwwroot",
+      "Source": "gRPCServer",
+      "ContentRoot": "D:\\Codes\\Visual Studio 2022\\gRPCFileApp\\gRPCServer\\wwwroot\\",
+      "BasePath": "_content/gRPCServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Codes\\Visual Studio 2022\\gRPCFileApp\\gRPCServer\\wwwroot\\files\\vs.PNG",
+      "SourceId": "gRPCServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Codes\\Visual Studio 2022\\gRPCFileApp\\gRPCServer\\wwwroot\\",
+      "BasePath": "_content/gRPCServer",
+      "RelativePath": "files/vs.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\vs.PNG"
+    },
+    {
+      "Identity": "D:\\Codes\\Visual Studio 2022\\gRPCFileApp\\gRPCServer\\wwwroot\\files\\yazlab2.rar",
+      "SourceId": "gRPCServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Codes\\Visual Studio 2022\\gRPCFileApp\\gRPCServer\\wwwroot\\",
+      "BasePath": "_content/gRPCServer",
+      "RelativePath": "files/yazlab2.rar",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\yazlab2.rar"
+    }
+  ]
+}
